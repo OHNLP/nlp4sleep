@@ -1,0 +1,12 @@
+./regexp/resources_regexp_reSnoring.txt
+./regexp/resources_regexp_reNapping.txt
+./regexp/resources_regexp_reSleepProblems.txt
+./regexp/resources_regexp_reSleepQualityG.txt
+./regexp/resources_regexp_reSleepQualityB.txt
+./regexp/resources_regexp_reDaySleep.txt
+./regexp/resources_regexp_reNightWake.txt
+./regexp/resources_regexp_reSDLong.txt
+./regexp/resources_regexp_reSDMedium.txt
+./regexp/resources_regexp_reSDShort.txt
+./rules/resources_rules_matchrules.txt
+./used_resources.txt

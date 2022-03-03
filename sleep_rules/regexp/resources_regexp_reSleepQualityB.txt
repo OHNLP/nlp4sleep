@@ -1,0 +1,22 @@
+staying up
+(trouble|irritable|tense) (\S+\s+){0,5}(sleep(ing)?|asleep)
+sleep(s|ing)? poorly
+sleep is poor
+poor sleep 
+restless sleep
+ca(n't|nnot) sleep
+sleep issues?
+sleep(ing)? (\S+\s+){0,5}(problems?|problematic)
+sleeps? a lot
+difficulty (\S+\s+){0,5}(asleep|sleep(ing)?)
+sleep disturbance
+sleep pattern disturbance 
+disturbance in sleep
+sleep quality: (fair|bad)
+not sleeping
+no sleep
+sleep difficulty
+nocturnal agitation
+up (during|at) night
+nocturnal
+often awake 

@@ -1,0 +1,5 @@
+snor(es|ing|e)?
+snorings
+sleep apnea
+osa
+obstructive sleep apnea

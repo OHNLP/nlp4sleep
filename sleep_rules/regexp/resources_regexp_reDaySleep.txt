@@ -1,0 +1,6 @@
+(excessive )?daytime sleep(iness|inesses)?
+(excessive )?daytime somnolence
+sleep(s|ing|iness)? at times
+sleep(s|iness)? in (\S+\s+){0,2}day(time)?
+sleep(s|iness)? during (\S+\s+){0,2}day(time)?
+sleep all day

@@ -1,0 +1,2 @@
+sleep (\S+\s+){0,5}(good|well)
+(good|well) (\S+\s+){0,5}sleep
