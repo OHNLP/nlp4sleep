@@ -54,4 +54,4 @@ A rule-based NLP algorithm to identify sleep-related concepts from clinical note
 
 
 ## Citation
-Sivarajkumar S, Tam TY, Ahamed Mohammad H, Viggiano S, Oniani D, Visweswaran S, Wang Y. Extraction of Sleep Information from Clinical Notes of Patients with Alzheimer’s Disease Using Natural Language Processing. medRxiv. Journal of American Medical Informatics Association. 2024.
+Sivarajkumar S, Tam TY, Ahamed Mohammad H, Viggiano S, Oniani D, Visweswaran S, Wang Y. Extraction of Sleep Information from Clinical Notes of Patients with Alzheimer’s Disease Using Natural Language Processing. Journal of American Medical Informatics Association. 2024.
